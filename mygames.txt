@@ -1,0 +1,15 @@
+-1
+The players hand total: 16
+Contents of the hand: 10 6 
+The dealers hand total: 17
+Contents of the hand: 7 8 2 
+1
+The players hand total: 17
+Contents of the hand: 7 10 
+The dealers hand total: 24
+Contents of the hand: 5 10 9 
+-1
+The players hand total: 25
+Contents of the hand: 6 9 10 
+The dealers hand total: 14
+Contents of the hand: 8 6 
