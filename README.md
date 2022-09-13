@@ -1,3 +1,6 @@
-# demo
+# Blackjack Game
 
-blackjack project
+#How to play
+
+#Citations
+
