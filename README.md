@@ -1,6 +1,6 @@
-# Blackjack Game
+# :hearts: Blackjack Game
 
-# How to play
+# :spades: How to play
 
-# Citations
+# :diamonds: Citations
 
