@@ -1,6 +1,6 @@
 # Blackjack Game
 
-#How to play
+# How to play
 
-#Citations
+# Citations
 
